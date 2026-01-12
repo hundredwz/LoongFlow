@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<h2 align="center">LoongFlow：Evolve Agent Development Framework</h2>
+<h2 align="center">LoongFlow: An Expert-Grade Agent Framework That Thinks and Learns.</h2>
 
-_From atomic components and development frameworks to core scenario Agents, comprehensive evolutionary Agent construction and application support is provided._
+_Set Creativity Free! LoongFlow turns your expertise into professional AI productivity._
 
 <p align="center">
     <a href="https://arxiv.org/abs/2512.24077">
@@ -43,7 +43,7 @@ _From atomic components and development frameworks to core scenario Agents, comp
 <table align="center" width="100%" style="border: none; table-layout: fixed;">
 <tr>
 
-<td width="30%" align="center" style="vertical-align: top; padding: 20px;">
+<td width="33%" align="center" style="vertical-align: top; padding: 20px;">
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
 <h3 style="margin: 0; padding: 0;">🚀 <strong>General-Evolve</strong></h3>
 </div>
@@ -51,10 +51,10 @@ _From atomic components and development frameworks to core scenario Agents, comp
   <img src="https://img.shields.io/badge/AGENT-General_Evolve-blue" alt="agent Badge" />
 </div>
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>General Code Evolve Agent </strong></p>
+<p align="center"><strong>General Evolve Agent </strong></p>
 </div>
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>Automatically</strong>, <strong>efficiently</strong>, and <strong>stably</strong> perform optimization tasks such as algorithms, mathematical puzzles, and prompts.</p>
+<p align="center"><strong>Efficient</strong>,<strong>stable</strong> driving of universal algorithm design and continuous evolution.</p>
 </div>
 </td>
 
@@ -69,7 +69,7 @@ _From atomic components and development frameworks to core scenario Agents, comp
 <p align="center"><strong>Machine Learning Agent</strong></p>
 </div>
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>Self-evolving</strong> ML Agent that <strong>autonomously</strong> understands data, builds models, and delivers an optimized solution.</p>
+<p align="center"><strong>Full-process</strong>,<strong>autonomous</strong> construction and continuous evolutionary breakthrough.</p>
 </div>
 
 </td>
@@ -81,10 +81,10 @@ _From atomic components and development frameworks to core scenario Agents, comp
   <img src="https://img.shields.io/badge/FRAMEWORK-LoongFlow-blue" alt="Backend Badge" />
 </div>
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>Evolve Agent Framework</strong></p>
+<p align="center"><strong>Universal Agent Framework</strong></p>
 </div>
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center">A modular, <strong>highly extensible Agent framework</strong> for flexible customization and seamless integration.</p>
+<p align="center">A Universal Agent Framework for <strong>Expert-Grade</strong> AI Productivity.</p>
 </div>
 </td>
 
@@ -93,7 +93,7 @@ _From atomic components and development frameworks to core scenario Agents, comp
 
 <br/>
 
-**LoongFlow**: Inspired by Wang Yangming's "Enlightenment at Longchang," this concept signifies the deep integration of the model's "knowing" and the tools' "doing" — knowledge propels action, and action yields insight, ushering in the era of Agent cognitive autonomy. It transcends the role of a mere mechanical executor; through iterative refinement in the PES (Plan-Execute-Summarize) cycle, it shatters cognitive boundaries, achieving an evolutionary leap from a "passive tool" to an "autonomous intelligence."
+**LoongFlow**: Inspired by Wang Yangming's "Enlightenment at Longchang".LoongFlow is dedicated to breaking the barrier between Knowing and Doing. We enable wisdom to awaken through the unity of knowledge and action, ensuring that every drop of professional expertise is transformed into powerful **AI productivity**.
 
 ## 📰 News
 
@@ -101,25 +101,23 @@ _From atomic components and development frameworks to core scenario Agents, comp
 
 ## ✨ Why LoongFlow?
 
-**A high-performance, stable, and scalable framework for evolutionary Agent development, featuring an innovative PES evolutionary paradigm to empower developers in building high-quality evolutionary Agents efficiently.**
+**An expert-grade Agent framework that thinks and learns. It empowers Agents to think like scientists, helping developers rapidly transform their professional expertise into expert-level Agents.**
 
 <p align="center">
 <img src="./assets/images/loongflow_fr_v1.jpg" alt="LoongFlow Framework" width="80%"/>
 </p>
 
-- **High Efficiency**: The innovative PES evolutionary paradigm, combined with multi-structural fused evolutionary memory, shifts from "random mutation" to "directed cognitive evolution." It significantly mitigates issues in traditional evolutionary methods, such as low generation quality, excessive ineffective evaluations, repetitive trial-and-error, and high randomness, thereby substantially enhancing evolutionary efficiency and convergence certainty. Compared to conventional methods, overall evolutionary efficiency is improved by approximately 60%.
+**Intelligent Thinking**: 
+Innovative PES (Planning-Execution-Summary) Paradigm. LoongFlow empowers Agents with structured thinking to tackle long-range complex reasoning challenges. This enables Agents to iterate through high-difficulty tasks with the rigorous mindset of a human scientist.
 
-- **Stability**: Upholding the principle of "engineering certainty," the system systematically encapsulates the inherent uncertainties of models through its architectural design, thereby reducing the burden of model reasoning and establishing a highly stable, reproducible intelligent evolution system. In practical evaluations, LoongFlow has demonstrated significant performance advantages.
+**Continuous Learning**: 
+Innovative Multi-Structure Fusion Memory. By actively generating model reasoning contexts, LoongFlow allows Agents to continuously synthesize experience during task iterations. This results in a "run-and-improve" mechanism, achieving lightweight learning and evolution without heavy retraining.
 
-- **Ease of Use**: LoongFlow provides comprehensive support, ranging from task-specific evolutionary Agents and a highly scalable evolutionary Agent development framework to modular atomic components. From applications to frameworks, it empowers developers to rapidly deploy evolutionary Agents for solving domain-specific problems, significantly reducing development and fine-tuning costs.
-
-## 💬 Contact
-
-Welcome to join our community on
-
-| [Discord](https://discord.gg/YSfdrC8HJh)                                | Wechat                                                                 |
-|-------------------------------------------------------------------------|------------------------------------------------------------------------|
-| <img src="./assets/images/discord_invite.png" width="200" height="200"> | <img src="./assets/images/wechat_invite.png" width="200" height="200"> |
+**Expert-Grade Performance**: 
+Validated in General Evolution and Machine Learning—the two most demanding domains.
+- Mathematical Challenges (Tao’s & AlphaEvolve sets): Outperformed the best human results on 11 problems and surpassed AlphaEvolve’s results on 7 problems, achieving the latest SOTA.
+- MLE-bench (Kaggle Challenges): Validated across 40 Kaggle competitions, securing 22 Gold Medals.
+- Efficiency Gains: Achieved an approximate 60% increase in comprehensive evolutionary efficiency compared to traditional methods.
 
 
 ## 🚀 Quick Start
@@ -198,9 +196,9 @@ tail -f ./agents/ml_evolve/examples/ml_example/agent.log
 
 ```
 
-## 🌟 LoongFlow Evolve Results
+## 🌟 LoongFlow Results
 
-#### Math Problem
+#### Mathematical Challenges (Tao’s & AlphaEvolve sets)
 
 | Problem                           | Previously best known    |     AlphaEvolve      | LoongFlow Evolve Result |     Details     |
 | --------------------------------- | -----------------------  | -------------------- | ----------------------- | --------------- |
@@ -216,9 +214,9 @@ tail -f ./agents/ml_evolve/examples/ml_example/agent.log
 | heilbronn triangles               | 0.036（Higher is Better）|  0.036529889880030156  | 0.0365298898793351    | [heilbronn_problem_for_triangles](./agents/general_evolve/examples/heilbronn_problem_for_triangles)           |
 | heilbronn convex regions          | 0.0306（Higher is Better） |  0.030936889034895654  | 0.030900663674639613   | [heilbronn_problem_for_convex_regions](./agents/general_evolve/examples/heilbronn_problem_for_convex_regions) |
 
-Validated on open mathematical problems proposed by Terence Tao and the AlphaEvolve team, the system outperformed all previously known best results on 11 of the problems.
+Across 11 challenges in geometry and algebra, LoongFlow outperformed all known best results and surpassed AlphaEvolve on 7 specific problems, achieving the latest SOTA.
 
-#### ML Task
+#### MLE-bench (Kaggle Challenges)
 
 | Problem                                  | LoongFlow Evolve Result | Details                                          |
 | ---------------------------------------- | ----------------------- | ------------------------------------------------ |
@@ -237,7 +235,7 @@ Validated on open mathematical problems proposed by Terence Tao and the AlphaEvo
 | predict-volcanic-eruptions-ingv-oe      | 🥇 Gold                 | [predict-volcanic-eruptions-ingv-oe](./agents/ml_evolve/examples/mlebench/competitions/hard/predict-volcanic-eruptions-ingv-oe) |
 | stanford-covid-vaccine                  | 🥇 Gold                 | [stanford-covid-vaccine](./agents/ml_evolve/examples/mlebench/competitions/hard/stanford-covid-vaccine) |
 
-Validated on 20 Kaggle machine learning competitions from the OpenAI MLE-Bench benchmark, the system achieved gold medals in 14 contests. Complete results will be announced after all competitions are concluded.
+Validated across 40 Kaggle competitions within the MLE-bench, securing 22 Gold Medals. The full results will be released upon the completion of all remaining competitions.
 
 #### Others
 
@@ -291,6 +289,14 @@ For more details, please refer to [ReActAgent](./src/evolux/react/README.md)
 ## 🤝 Contribution
 
 Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## 💬 Contact
+
+Welcome to join our community on
+
+| [Discord](https://discord.gg/YSfdrC8HJh)                                | Wechat                                                                 |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------|
+| <img src="./assets/images/discord_invite.png" width="200" height="200"> | <img src="./assets/images/wechat_invite.png" width="200" height="200"> |
 
 ## 📜 License
 

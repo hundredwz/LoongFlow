@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<h2 align="center">LoongFlow：进化 Agent 开发框架</h2>
+<h2 align="center">LoongFlow：会思考、会学习的专家级Agent开发框架</h2>
 
-_从原子组件、开发框架到核心场景 Agent，提供全面的进化 Agent 构建和应用支持_
+_让创造更自由！LoongFlow，让你的经验轻松转化为专业的 AI 生产力。_
 
 <p align="center">
     <a href="https://arxiv.org/abs/2512.24077">
@@ -42,7 +42,7 @@ _从原子组件、开发框架到核心场景 Agent，提供全面的进化 Age
 <table align="center" width="100%" style="border: none; table-layout: fixed;">
 <tr>
 
-<td width="30%" align="center" style="vertical-align: top; padding: 20px;">
+<td width="33%" align="center" style="vertical-align: top; padding: 20px;">
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
 <h3 style="margin: 0; padding: 0;">🚀 <strong>General-Evolve</strong></h3>
 </div>
@@ -52,12 +52,12 @@ _从原子组件、开发框架到核心场景 Agent，提供全面的进化 Age
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
 <p align="center"><strong>通用进化智能体</strong></p>
 </div>
-<div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>自动</strong>、<strong>高效</strong>、<strong>稳定</strong>执行算法设计与优化、数学探索和发现等进化任务。</p>
+<div style="height: 120px; display: flex; align-items: center; justify-content: center;">
+<p align="center"><strong>高效</strong>、<strong>稳定</strong>驱动通用算法设计和持续进化</p>
 </div>
 </td>
 
-<td width="30%" align="center" style="vertical-align: top; padding: 20px;">
+<td width="33%" align="center" style="vertical-align: top; padding: 20px;">
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
 <h3 style="margin: 0; padding: 0;">🔥 <strong>ML-Evolve</strong></h3>
 </div>
@@ -67,12 +67,12 @@ _从原子组件、开发框架到核心场景 Agent，提供全面的进化 Age
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
 <p align="center"><strong>机器学习智能体</strong></p>
 </div>
-<div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>自主进化</strong>机器学习智能体， <strong>自动</strong>理解数据、构建评估模型并进化出最优方案。</p>
+<div style="height: 120px; display: flex; align-items: center; justify-content: center;">
+<p align="center"><strong>全流程、全自主</strong>完整构建，持续进化突破</p>
 </div>
 
 </td>
-<td width="30%" align="center" style="vertical-align: top; padding: 20px;">
+<td width="33%" align="center" style="vertical-align: top; padding: 20px;">
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
 <h3 style="margin: 0; padding: 0;">⭐ <strong>LoongFlow</strong></h3>
 </div>
@@ -80,10 +80,10 @@ _从原子组件、开发框架到核心场景 Agent，提供全面的进化 Age
   <img src="https://img.shields.io/badge/FRAMEWORK-LoongFlow-blue" alt="Backend Badge" />
 </div>
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>进化Agent框架</strong></p>
+<p align="center"><strong>通用Agent框架</strong></p>
 </div>
-<div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center">模块化, <strong>高可扩展的智能体开发框架</strong>，支持灵活定制和无缝集成。</p>
+<div style="height: 120px; display: flex; align-items: center; justify-content: center;">
+<p align="center"><strong>会思考、会学习</strong>的专家级通用Agent开发框架</p>
 </div>
 </td>
 
@@ -92,7 +92,7 @@ _从原子组件、开发框架到核心场景 Agent，提供全面的进化 Age
 
 <br/>
 
-**LoongFlow（龙场）**：取意“龙场悟道”，将 模型之“知” 与 工具之“行” 深度熔炼，以知促行，由行成悟，开启 Agent 认知自主时代。不再是机械执行的工具，而是在 PES（规划-执行-总结）的循环磨砺中打破认知天花板，实现从“被动工具”向“自主智能”的进化飞跃。
+**LoongFlow**：取名源自“龙场悟道”，寓意LoongFlow 致力于打破“知”与“行”的藩篱，让经验在知行合一中觉醒，让每一份专业积淀都能转化为强大的AI生产力。
 
 ## 📰 News
 
@@ -100,25 +100,17 @@ _从原子组件、开发框架到核心场景 Agent，提供全面的进化 Age
 
 ## ✨ Why LoongFlow?
 
-**高效、稳定、可扩展的进化 Agent 开发框架，创新PES进化范式，助力开发者快速构建高质量进化 Agent。**
+**会思考、会学习的专家级Agent开发框架，让Agent像科学家一样思考，助力开发者快速把自己的专业经验转化为专家级Agent。**
 
 <p align="center">
 <img src="./assets/images/loongflow_fr_v1.jpg" alt="LoongFlow Framework" width="80%"/>
 </p>
 
-- **高效**：创新PES进化范式，结合多结构融合进化记忆，从“随机突变”转向“定向认知演化”。显著缓解传统进化方法中生成质量低、无效评估多、重复试错与随机性过高等问题，大幅提升进化效率与收敛确定性。相比传统方法，综合进化效率提升约 60%。
+- **会思考**：创新PES思考范式，让Agent具备结构化思考能力，解决长程复杂推理难题。让Agent可以像人类科学家一样，迭代解决高难度任务。
 
-- **稳定**：贯彻“工程确定性”的理念，通过系统性工程架构封装模型固有不确定性，降低模型推理负担，构建起高稳定性、可复现的智能进化系统。在实际评估中，LoongFlow 展现了显著的性能优势。
+- **会学习**：创新多结构融合记忆，通过主动生成模型推理上下文，让Agent在任务迭代中，持续总结经验，越跑越好，实现轻量级学习进化。
 
-- **易用**：LoongFlow 提供从典型场景进化 Agent、高可扩展进化 Agent 开发框架，到模块化原子组件的全栈支持。从应用到框架，助力开发者快速应用进化 Agent 解决领域问题，显著降低开发调优成本。
-
-## 💬 Contact
-
-欢迎加入我们的社区进行讨论：
-
-| [Discord](https://discord.gg/YSfdrC8HJh)                                | Wechat                                                                 |
-|-------------------------------------------------------------------------|------------------------------------------------------------------------|
-| <img src="./assets/images/discord_invite.png" width="200" height="200"> | <img src="./assets/images/wechat_invite.png" width="200" height="200"> |
+- **专家级**：在通用进化和机器学习两个高难度场景验证。在陶哲轩&AlphaEvolve发布数学挑战中，有11个题目超过人类最好结果，并在7个问题上超过AlphaEvolve进化结果，取得最新SOTA；在MLE-bench评测集中40场kaggle机器学习赛事验证，取得22场金牌。同时相比传统方法，综合进化效率提升约60%。
 
 
 ## 🚀 快速开始
@@ -197,9 +189,9 @@ tail -f ./agents/ml_evolve/examples/ml_example/agent.log
 
 ```
 
-## 🌟 LoongFlow 取得的成果
+## 🌟 评估效果
 
-#### 开放性数学问题
+#### 陶哲轩&AlphaEvolve发布数学挑战
 
 | Problem                           | Previously best known    |     AlphaEvolve      | LoongFlow Evolve Result |     Details     |
 | --------------------------------- | -----------------------  | -------------------- | ----------------------- | --------------- |
@@ -215,9 +207,9 @@ tail -f ./agents/ml_evolve/examples/ml_example/agent.log
 | heilbronn triangles               | 0.036（Higher is Better）|  0.036529889880030156  | 0.0365298898793351    | [heilbronn_problem_for_triangles](./agents/general_evolve/examples/heilbronn_problem_for_triangles)           |
 | heilbronn convex regions          | 0.0306（Higher is Better） |  0.030936889034895654  | 0.030900663674639613   | [heilbronn_problem_for_convex_regions](./agents/general_evolve/examples/heilbronn_problem_for_convex_regions) |
 
-在陶哲轩&AplphaEvolve 团队提出开放性数学题上验证，11 个题目上超过之前已知最好结果。
+在11个几何和代数问题挑战中，取得了超过已知最好结果，并在7个问题上超过AlphaEvolve进化结果，取得最新SOTA。
 
-#### 机器学习任务
+#### Kaggle机器学习竞赛
 
 | Problem                                  | LoongFlow Evolve Result | Details                                          |
 | ---------------------------------------- | ----------------------- | ------------------------------------------------ |
@@ -236,7 +228,7 @@ tail -f ./agents/ml_evolve/examples/ml_example/agent.log
 | predict-volcanic-eruptions-ingv-oe      | 🥇 Gold                 | [predict-volcanic-eruptions-ingv-oe](./agents/ml_evolve/examples/mlebench/competitions/hard/predict-volcanic-eruptions-ingv-oe) |
 | stanford-covid-vaccine                  | 🥇 Gold                 | [stanford-covid-vaccine](./agents/ml_evolve/examples/mlebench/competitions/hard/stanford-covid-vaccine) |
 
-在 openai mle-bench 评测集中20场kaggle机器学习赛事验证，取得14个金牌，完整结果将在完成全部赛事后公布。
+在MLE-bench评测集中40场kaggle机器学习赛事验证，取得22个金牌，完整结果将在完成全部赛事后公布。
 
 #### 其他尝试
 
@@ -286,16 +278,25 @@ result = await agent(message)
 
 For more details, please refer to [ReActAgent](./src/evolux/react)
 
-## 🤝 贡献与讨论
+## 🤝 贡献
 
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+请阅读 [CONTRIBUTING.md](./CONTRIBUTING.md) 文件，了解行为准则以及提交拉取请求的流程。
 
+## 💬 讨论
 
-## 📜 License
+欢迎加入我们的社区进行讨论：
 
-LoongFlow is licensed under the Apache License 2.0.
+| [Discord](https://discord.gg/YSfdrC8HJh)       | Wechat                                  |
+|------------------------------------------------|-----------------------------------------|
+| <img src="./assets/images/discord_invite.png" width="200" height="200"> | <img src="./assets/images/wechat_invite.png" width="200" height="200"> |
+
+## 📜 许可
+
+LoongFlow 采用 Apache License 2.0 许可。
+
 
 ## 📚 引用
+
 如果您觉得我们的工作对您有帮助，请考虑引用我们的论文：
 
 ```bibtex
